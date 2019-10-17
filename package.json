@@ -1,6 +1,6 @@
 {
    "name": "@roddynpm/bs-ppx_deriving_yojson",
-   "version": "0.0.1",
+   "version": "0.1.0",
    "repository": {
       "type": "git",
       "url": "git+https://github.com/roddyyaga/bs-ppx_deriving_yojson.git"
