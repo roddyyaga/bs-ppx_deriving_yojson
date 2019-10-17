@@ -1,1 +1,1 @@
-type t = {x: int} [@@deriving yojson]
+type t = {x: int} [@@deriving show, yojson]
