@@ -1,0 +1,14 @@
+{
+    "name": "@roddynpm/bs-ppx_deriving_yojson",
+    "sources": {
+        "dir": "src",
+        "files": [
+            "ppx_deriving_yojson_runtime.ml",
+            "ppx_deriving_yojson_runtime.mli"
+        ]
+    },
+    "bs-dependencies": [
+        "bs-deriving",
+        "@elliottcable/bs-result"
+    ]
+}
